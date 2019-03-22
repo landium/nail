@@ -9,8 +9,9 @@ $gray-light: #ccc;
   .navbar-nav {
     .nav-item {
       .nav-link {
-        color: #000;
+        color: #666;
         font-weight: 600;
+        text-transform: uppercase;
       }
     }
   }
@@ -23,7 +24,6 @@ $gray-light: #ccc;
   background-position-x: center;
   background-position-y: center;
   background-size: cover;
-  back
 }
 
 
