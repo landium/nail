@@ -1,0 +1,22 @@
+.navbar-light {
+  border-bottom: 1px solid #ccc;
+}
+
+.navbar-light .navbar-nav .nav-item .nav-link {
+  color: #000;
+  font-weight: 600;
+}
+
+.jumbotron {
+  background-color: red;
+  background-image: url("../img/111.jpg");
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+  background-size: cover;
+}
+
+h1, h2, h3 {
+  font-family: 'Lora', serif;
+}
+/*# sourceMappingURL=style.css.map */

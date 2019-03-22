@@ -1,0 +1,32 @@
+$gray: #333;
+$gray-light: #ccc;
+
+// navbar
+
+.navbar-light {
+  border-bottom: 1px solid $gray-light;
+
+  .navbar-nav {
+    .nav-item {
+      .nav-link {
+        color: #000;
+        font-weight: 600;
+      }
+    }
+  }
+}
+
+.jumbotron {
+  background-color: red;
+  background-image: url("../img/111.jpg");
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+  background-size: cover;
+  back
+}
+
+
+h1, h2, h3 {
+  font-family: 'Lora', serif;
+}
