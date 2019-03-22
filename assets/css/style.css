@@ -27,6 +27,11 @@ h3 {
   border-color: #fc0fc0;
 }
 
+.btn-outline-primary {
+  color: #fc0fc0;
+  border-color: #fc0fc0;
+}
+
 .card .card-title {
   font-family: "Lora", serif;
   text-transform: uppercase;
