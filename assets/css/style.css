@@ -22,6 +22,35 @@ h3 {
   font-family: "Lora", serif;
 }
 
+.btn-primary {
+  background-color: #fc0fc0;
+  border-color: #fc0fc0;
+}
+
+.card .card-title {
+  font-family: "Lora", serif;
+  text-transform: uppercase;
+  color: #333;
+}
+
+.card .card-img-top {
+  width: 100%;
+  height: 200px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.card .card-body {
+  color: #666;
+}
+
+.card .card-price {
+  font-weight: 600;
+  color: #fc0fc0;
+  font-size: 1.4rem;
+  margin-bottom: 0;
+}
+
 div.portfolio-item {
   width: 100%;
   height: 250px;

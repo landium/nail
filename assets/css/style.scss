@@ -1,6 +1,8 @@
 $gray: #333;
 $gray-light: #ccc;
 
+$primary-color: #fc0fc0;
+
 // navbar
 
 .navbar-light {
@@ -31,6 +33,32 @@ h3 {
   font-family: "Lora", serif;
 }
 
+.btn-primary {
+  background-color: $primary-color;
+  border-color: $primary-color;
+}
+
+.card {
+  .card-title {
+    font-family: "Lora", serif;
+    text-transform: uppercase;
+    color: #333;
+  }
+  .card-img-top {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+  .card-body {
+    color: #666;
+  }
+  .card-price {
+    font-weight: 600;
+    color: $primary-color;
+    font-size: 1.4rem;
+    margin-bottom: 0;
+  }
+}
 div.portfolio-item {
   width: 100%;
   height: 250px;
