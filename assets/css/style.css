@@ -45,6 +45,13 @@ h3 {
      object-fit: cover;
 }
 
+.card .card-img-portfolio {
+  width: 100%;
+  height: 250px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
 .card .card-body {
   color: #666;
 }
